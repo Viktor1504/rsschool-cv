@@ -2,7 +2,7 @@
 ## **Contacts**
 + Location: Belarus, Minsk
 + Email: viktordenisevich6@gmail.com
-+ [My Discord](https://github.com/Viktor1504)
++ [My Github](https://github.com/Viktor1504)
 + [My Discord](https://discordapp.com/users/Victor1504#5909/)
 ## About me
 Now I work in a company that sells agricultural machinery. I am responsible for the operation and security of the local network.
